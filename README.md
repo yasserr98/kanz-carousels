@@ -6,6 +6,8 @@ Reusable visual production libraries for Explainers, Books, Websites and Infogra
 
 ## First run
 
+For optional drafting, [WRITING.md](WRITING.md) contains plain, generic guidance only. Obtain copy approval before rendering; no personal Arabic writing style or formulas are included.
+
 Install Python 3.11+ and the browser renderer:
 
 ```sh
